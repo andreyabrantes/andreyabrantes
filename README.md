@@ -1,6 +1,6 @@
 # Olá! Seja bem vindo ao meu perfil :) 
 
-Me chamo Andrey Campos, sou estudante de **Ciência da Computação** no **2º período** na **Unifeso** 🎓 e atuo como Técnico de Consultoria Interna na **Alterdata Software** 💼, onde estou aprimorando minhas habilidades em **Python** e em outras tecnologias.
+Me chamo Andrey Campos, sou estudante de **Ciência da Computação** e atualmente estou no **2º período** pela instituição **Unifeso** 🎓 e atuo como Técnico de Consultoria Interna na **Alterdata Software** 💼, onde estou aprimorando minhas habilidades em **Python** e em outras tecnologias.
 
 Atualmente, trabalho no setor **Staff** da Alterdata, onde colaboro na implementação e suporte de sistemas para colaboradores internos, buscando melhorias em software de ERP e analisando possíveis falhas 
 
