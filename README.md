@@ -20,7 +20,7 @@ Atualmente, trabalho no setor **Staff** da Alterdata, onde colaboro na implement
 🔗 **Sinta-se a vontade para seguir** Explore meus projetos, siga-me para atualizações e sinta-se à vontade para entrar em contato. Estou sempre aberto a novas oportunidades e desafios! 🌟
 
 
-***************************************************************************** EN/US *****************************************************************************
+||EN/US||
 
 # Hi! Welcome to my profile
 I'm Andrey Campos. I'm a 2nd-year Computer Science student at **Unifeso** 🎓 and work as an Internal Consultant at **Alterdata Software** 💼, where I'm enhancing my skills in **Python** and other technologies.
