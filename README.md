@@ -1,6 +1,6 @@
 # print("Seja bem vindo ;D")
 
-Olá! Me chamo Andrey Campos, sou estudante de **Ciência da Computação** e atualmente estou no **2º período** pela instituição **Unifeso** 🎓 e atuo como Técnico de Consultoria Interna na **Alterdata Software** 💼.
+Olá! Me chamo Andrey Campos, sou estudante de **Ciência da Computação** e atualmente estou no **3º período** pela instituição **Unifeso** 🎓 e atuo como Técnico de Consultoria Interna na **Alterdata Software** 💼.
 
 ## Sobre Mim
 - **Idade:** 20 anos
