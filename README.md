@@ -1,12 +1,12 @@
 # print("Seja bem vindo ;D")
 
-Olá! Me chamo Andrey Campos, sou estudante de **Ciência da Computação** e atualmente estou no **3º período** pela instituição **Unifeso** 🎓 e atuo como Técnico de Consultoria Interna na **Alterdata Software** 💼.
+Olá! Me chamo Andrey Campos, sou estudante de **Ciência da Computação** e atualmente estou no **4º período** pela instituição **Unifeso** 🎓 e atuo como Analista de Cybersecurity na **Alterdata Software** 💼.
 
 ## Sobre Mim
 - **Idade:** 21 anos
 - **Localização:** Teresópolis, Rio de Janeiro 🌴
 - **Ciência da Computação** 
-- **Experiência Profissional:** Técnico de Consultoria Interna
+- **Experiência Profissional:** Analista de Segurança da Informação
 - **Competências:** Blue team, segurança digital, hacking, lei geral de proteção de dados, firewall e redes
 - **Interesses:** Cybersegurança, Ethical Hacking e SIEM.
 
