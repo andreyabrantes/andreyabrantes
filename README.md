@@ -7,7 +7,7 @@ Olá! Me chamo Andrey Campos, sou estudante de **Ciência da Computação** e at
 - **Localização:** Teresópolis, Rio de Janeiro 🌴
 - **Ciência da Computação** 
 - **Experiência Profissional:** Analista de Segurança da Informação
-- **Competências:** Blue team, segurança digital, hacking, lei geral de proteção de dados, firewall e redes
+- **Competências:** Blue team, segurança digital, análise de malware, lei geral de proteção de dados, firewall e redes
 - **Interesses:** Cybersegurança, Ethical Hacking e SIEM.
 
 ## Minhas Metas
