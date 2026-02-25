@@ -1,14 +1,14 @@
 # print("Seja bem vindo ;D")
 
-Olá! Me chamo Andrey Campos, sou estudante de **Ciência da Computação** e atualmente estou no **4º período** pela instituição **Unifeso** 🎓 e atuo como Analista de Cybersecurity na **Alterdata Software** 💼.
+Olá! Me chamo Andrey Campos, sou estudante de **Ciência da Computação** e atualmente estou no **5º período** pela instituição **Unifeso** 🎓 e atuo como Analista de Cybersecurity na **Alterdata Software** 💼.
 
 ## Sobre Mim
 - **Idade:** 21 anos
 - **Localização:** Teresópolis, Rio de Janeiro 🌴
 - **Ciência da Computação** 
-- **Experiência Profissional:** Analista de Segurança da Informação
+- **Experiência Profissional:** Analista de Segurança da Informação | Consultor interno 
 - **Competências:** Blue team, segurança digital, análise de malware, lei geral de proteção de dados, firewall e redes
-- **Interesses:** Cybersegurança, Ethical Hacking e SIEM.
+- **Interesses:** Cybersecurity, Proteção de dados e Segurança de redes.
 
 ## Minhas Metas
 - 📈 **Aperfeiçoar minhas habilidades técnicas:** Continuar aprendendo e crescendo na área da segurança da informação
