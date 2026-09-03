@@ -3,7 +3,7 @@
 Olá! Me chamo Andrey Campos, sou estudante de **Ciência da Computação** e atualmente estou no **5º período** pela instituição **Unifeso** 🎓 e atuo como Analista de Cybersecurity na **Alterdata Software** 💼.
 
 ## Sobre Mim
-- **Idade:** 21 anos
+- **Idade:** 22 anos
 - **Localização:** Teresópolis, Rio de Janeiro 🌴
 - **Ciência da Computação**
 - **Competências:** Blue team, segurança digital, análise de malware, lei geral de proteção de dados, firewall e redes
