@@ -1,6 +1,6 @@
 # print("Seja bem vindo ;D")
 
-Olá! Me chamo Andrey Campos, sou estudante de **Ciência da Computação** e atualmente estou no **5º período** pela instituição **Unifeso** 🎓 e atuo como Analista de Cybersecurity na **Alterdata Software** 💼.
+Olá! Me chamo Andrey Campos, sou estudante de **Ciência da Computação** e atualmente estou no **6º período** pela instituição **Unifeso** 🎓 e atuo como Analista de Cybersecurity na **Alterdata Software** 💼.
 
 ## Sobre Mim
 - **Idade:** 22 anos
