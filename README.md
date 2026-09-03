@@ -30,7 +30,7 @@ Sou apaixonado por tecnologia e focado em garantir a segurança de ambientes dig
 
 ## 📫 Vamos nos Conectar?
 
-🔗 **Sinta-se à vontade para me seguir e explorar meus projetos!** Estou sempre aberto a trocar ideias, enfrentar novos desafios e abraçar novas oportunidades. 🌟
+🔗 **Sinta-se à vontade para me seguir e explorar meus projetos!**
 
 <div align="center">
   <a href="https://www.linkedin.com/in/andreycamposcs/" target="_blank">
